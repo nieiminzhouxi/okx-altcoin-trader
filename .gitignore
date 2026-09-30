@@ -33,3 +33,6 @@ npm-debug.log*
 # Temp logs
 *-err*.txt
 *-log.txt
+
+# GitHub token (keep secret!)
+.gh-token
